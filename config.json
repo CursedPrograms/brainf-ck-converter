@@ -1,0 +1,16 @@
+{
+  "WebsiteSettings": {
+    "Title": "Brainfuck Converter",
+    "Theme": "",
+    "Author": "",
+    "Description": "",
+    "Homepage": "",
+    "Navigation": {
+      "MenuItem": [
+        "",
+        "",
+        ""
+      ]
+    }
+  }
+}
