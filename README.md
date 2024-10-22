@@ -28,7 +28,7 @@
 # brainf-ck-converter
 
 <div align="center">
-<a href="https://cursedprograms.github.io/gender-age-id-pr/" target="_blank">
+<a href="https://cursedprograms.github.io/brainf-ck-converter/" target="_blank">
     <img src="https://github.com/CursedPrograms/brainf-ck-converter/raw/main/site-qr.png"
         alt="Age-Gender Demo Image">
 </a>
